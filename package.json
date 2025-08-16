@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
-    "test": "echo 'Error: no test specified' && exit 1"
+    "test": "echo 'Error: no test specified' && exit 1",
+    "test:jest": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.7.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
   }
 }
