@@ -7,7 +7,7 @@
     "start": "node src/server.js",
     "test": "echo 'Error: no test specified' && exit 1",
     "test:jest": "jest",
-    "lint": "eslint ."  // Script para ejecutar eslint en el proyecto
+    "lint": "eslint ." // Script para ejecutar eslint en el proyecto
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   },
   "devDependencies": {
     "jest": "^27.0.0",
-    "eslint": "^8.0.0"  // Agregar eslint como dependencia de desarrollo
+    "eslint": "^8.0.0" // Agregar eslint como dependencia de desarrollo
   }
 }
