@@ -14,7 +14,7 @@
   "author": "Tu Nombre <tu.email@ejemplo.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.10.9"
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
   }
 }
