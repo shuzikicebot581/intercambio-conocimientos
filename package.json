@@ -1,0 +1,20 @@
+{
+  "name": "intercambio-conocimientos",
+  "version": "1.0.0",
+  "description": "Una plataforma para facilitar el intercambio de conocimientos y recursos entre desarrolladores de software hispanohablantes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu-usuario/intercambio-conocimientos.git"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
